@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/amine_web_manage" />
+    <file type="web" url="file://$PROJECT_DIR$/anime_app" />
+    <file type="web" url="file://$PROJECT_DIR$/anime_service_api" />
+    <file type="web" url="file://$PROJECT_DIR$/anime_web" />
+    <file type="web" url="file://$PROJECT_DIR$/anime_web_manage" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/amine-parent/pom.xml" />
+        <option value="$PROJECT_DIR$/amine-app/pom.xml" />
+        <option value="$PROJECT_DIR$/amine-common/pom.xml" />
+        <option value="$PROJECT_DIR$/amine-service-api/pom.xml" />
+        <option value="$PROJECT_DIR$/amine-web/pom.xml" />
+        <option value="$PROJECT_DIR$/amine_parent/pom.xml" />
+        <option value="$PROJECT_DIR$/amine_web/pom.xml" />
+        <option value="$PROJECT_DIR$/amine_common/pom.xml" />
+        <option value="$PROJECT_DIR$/amine_app/pom.xml" />
+        <option value="$PROJECT_DIR$/amine_service_api/pom.xml" />
+        <option value="$PROJECT_DIR$/anime_app/pom.xml" />
+        <option value="$PROJECT_DIR$/anime_common/pom.xml" />
+        <option value="$PROJECT_DIR$/anime_parent/pom.xml" />
+        <option value="$PROJECT_DIR$/anime_service_api/pom.xml" />
+        <option value="$PROJECT_DIR$/anime_web/pom.xml" />
+        <option value="$PROJECT_DIR$/anime_web_manage/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_7" project-jdk-name="1.7" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

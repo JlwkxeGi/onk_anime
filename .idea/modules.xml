@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/anime_app/anime_app.iml" filepath="$PROJECT_DIR$/anime_app/anime_app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/anime_common/anime_common.iml" filepath="$PROJECT_DIR$/anime_common/anime_common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/anime_parent/anime_parent.iml" filepath="$PROJECT_DIR$/anime_parent/anime_parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/anime_service_api/anime_service_api.iml" filepath="$PROJECT_DIR$/anime_service_api/anime_service_api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/anime_web/anime_web.iml" filepath="$PROJECT_DIR$/anime_web/anime_web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/anime_web_manage/anime_web_manage.iml" filepath="$PROJECT_DIR$/anime_web_manage/anime_web_manage.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <option name="BUILD_PROCESS_HEAP_SIZE" value="1500" />
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="amine-common" />
+        <module name="amine-service-api" />
+        <module name="amine-web" />
+        <module name="amine-web-manage (1)" />
+        <module name="amine-web-manage (2)" />
+        <module name="amine_app" />
+        <module name="amine_common" />
+        <module name="amine_service_api" />
+        <module name="amine_web" />
+        <module name="amine_web_manage" />
+        <module name="anime_app" />
+        <module name="anime_common" />
+        <module name="anime_service_api" />
+        <module name="anime_web" />
+        <module name="anime_web_manage" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="amine_app" target="1.5" />
+      <module name="amine_common" target="1.5" />
+      <module name="amine_parent" target="1.5" />
+      <module name="amine_service_api" target="1.5" />
+      <module name="amine_web" target="1.5" />
+      <module name="amine_web_manage" target="1.5" />
+      <module name="anime_app" target="1.5" />
+      <module name="anime_common" target="1.5" />
+      <module name="anime_parent" target="1.5" />
+      <module name="anime_service_api" target="1.5" />
+      <module name="anime_web" target="1.5" />
+      <module name="anime_web_manage" target="1.5" />
+      <module name="onk_amine" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
